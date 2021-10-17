@@ -633,7 +633,7 @@ while True:
     bases = ['[$] 1 : Base16','[$] 2 : Base32','[$] 3 : Base64','[$] 4 : Base85','[$] 5 : Url Safe Base64']
     for select in bases:
         print(select)
-    inp12 = input('[$] Select The Type Of Base You Want : ')
+    inp12 = input('[$] Enter The Type Of Base Hash You Want : ')
     if inp12 in ('1','2','3','4','5'):
     
         if inp12 == '1':
@@ -727,7 +727,7 @@ while True:
                   print('[$] encoded text:>('' ',encoded22,')')    
               elif in22 == '2': 
                   text22 = input('[$] Enter The Base you Want To decode: ')                 
-                  print('[$] decoded base85:>',b85decode(text22).decode())
+                  print('[$] decoded url safe base64:>',b85decode(text22).decode())
               else:
                   print('[$] error')
           else:
