@@ -633,7 +633,7 @@ while True:
     bases = ['[$] 1 : Base16','[$] 2 : Base32','[$] 3 : Base64','[$] 4 : Base85','[$] 5 : Url Safe Base64']
     for select in bases:
         print(select)
-    inp12 = input('[$] Enter The Type Of Base Hash You Want : ')
+    inp12 = input('[$] Enter The Type Of Base Encode You Want : ')
     if inp12 in ('1','2','3','4','5'):
     
         if inp12 == '1':
