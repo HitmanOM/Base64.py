@@ -1,10 +1,10 @@
-# Base64.py
+# BaseCryPT.py
 Base64 Encoder And Decoder Built With Python 3
 
 # Installation
-- git clone https://github.com/HitmanOM/Base64.py
-- cd Base64.py
-- Python3 Base-64.py
+- git clone https://github.com/HitmanOM/BaseCryPT.py
+- cd BaseCryPT.py
+- Python3 BaseCryPT.py
 # if you get any errors type :
 For Windows:
 - pip install -r requirements.txt
