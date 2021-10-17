@@ -6,7 +6,7 @@ Base64 Encoder And Decoder Built With Python 3
 - cd Base64.py
 - Python3 Base-64.py
 # if you get any errors type :
-For Windows:
+#For Windows:
 - pip install -r requirements.txt
-For Linux/Mac:
+#For Linux/Mac:
 - pip3 install -r requirements.txt
