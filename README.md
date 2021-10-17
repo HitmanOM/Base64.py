@@ -1,5 +1,5 @@
 # BaseCryPT.py
-Base64 Encoder And Decoder Built With Python 3
+Base16-32-64-85-Url Safe Base64 Encoder And Decoder Built With Python 3
 
 # Installation
 - git clone https://github.com/HitmanOM/BaseCryPT.py
